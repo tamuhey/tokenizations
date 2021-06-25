@@ -1,4 +1,4 @@
-# MOVED
+# ⚠ MOVED
 
 This repository is moved to [https://github.com/explosion/tokenizations](https://github.com/explosion/tokenizations), and now maintained by Explosion, spaCy's authors.
 
