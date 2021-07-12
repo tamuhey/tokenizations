@@ -1,6 +1,6 @@
 # ⚠ MOVED
 
-This repository is moved to [https://github.com/explosion/tokenizations](https://github.com/explosion/tokenizations), and now maintained by Explosion, spaCy's authors.
+This repository was moved to [https://github.com/explosion/tokenizations](https://github.com/explosion/tokenizations), and now maintained by Explosion, spaCy's authors.
 
 # Robust and Fast tokenizations alignment library for Rust and Python
 [![creates.io](https://img.shields.io/crates/v/tokenizations.svg)](https://crates.io/crates/tokenizations)
